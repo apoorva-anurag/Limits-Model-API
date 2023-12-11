@@ -1,0 +1,118 @@
+{
+    "inputs_dict":
+    {
+        "external_rating":"B",
+        "external_rating_agency":"Brickwork",
+        "internal_rating":"BB",
+        "networth":309.2,
+        "revenue":379.5,
+        "revenue_period": "3MFY24",
+        "ebitda":7.2,
+        "ebitda_period":"3MFY24",
+        "pat":-12.9,
+        "pat_period":"3MFY24",
+        "fi_ef":"EF",
+        "on_bs_borrowings":599,
+        "contingent_liability":0,
+        "secure_status":"Secured",
+        "sub_asset_class":"Health Care Providers & Services",
+        "pe_investor":"Yes",
+        "governance_concerns":0,
+        "asset_class":"Health Care Providers & Services",
+        "entity_name":"Akna Medical Private Limited",
+        "avg_tenure":24,
+        "alm_cumulative_mismatch":0,
+        "deflator":0.3
+    }
+}
+
+{
+    "inputs_dict":
+    {
+        "external_rating":"BBB",
+        "external_rating_agency":"CARE",
+        "internal_rating":"A-",
+        "networth":238.2,
+        "revenue":30.8,
+        "revenue_period": "6MFY23",
+        "ebitda":0,
+        "ebitda_period":"",
+        "pat":4.2,
+        "pat_period":"6MFY23",
+        "on_bs_aum":533.0,
+        "off_bs_aum":0,
+        "fi_ef":"FS",
+        "on_bs_borrowings":279.8,
+        "contingent_liability":0,
+        "secure_status":"Secured",
+        "sub_asset_class":"Housing Finance",
+        "pe_investor":"Yes",
+        "governance_concerns":0,
+        "asset_class":"Housing Finance",
+        "entity_name":"Altum Credo Home Finance Private Limited",
+        "avg_tenure":48,
+        "alm_cumulative_mismatch":0,
+        "deflator":0
+    }
+}
+
+{
+    "inputs_dict":
+    {
+        "external_rating":"BBB-",
+        "external_rating_agency":"Acuite (SMERA)",
+        "internal_rating":"Unrated",
+        "networth":22.1795515,
+        "revenue":0,
+        "revenue_period": "",
+        "ebitda":0,
+        "ebitda_period":"",
+        "pat":0,
+        "pat_period":"12MFY21",
+        "on_bs_aum":71.0,
+        "off_bs_aum":0,
+        "fi_ef":"FS",
+        "on_bs_borrowings":0,
+        "contingent_liability":0,
+        "secure_status":"Secured",
+        "sub_asset_class":"Two Wheeler Finance",
+        "pe_investor":"No",
+        "governance_concerns":"Significant Governance Concerns Exists",
+        "asset_class":"Two Wheeler Finance",
+        "entity_name":"AKME FINCON LIMITED",
+        "avg_tenure":30,
+        "alm_cumulative_mismatch":0,
+        "deflator":0
+    }
+}
+
+
+{
+    "inputs_dict":
+    {
+        "external_rating":"A-",
+        "external_rating_agency":"ICRA",
+        "internal_rating":"Unrated",
+        "networth":0,
+        "revenue":0,
+        "revenue_period": "",
+        "ebitda":0,
+        "ebitda_period":"",
+        "pat":0,
+        "pat_period":"",
+        "on_bs_aum":0,
+        "off_bs_aum":0,
+        "fi_ef":"FS",
+        "on_bs_borrowings":0,
+        "contingent_liability":0,
+        "secure_status":"Unsecured",
+        "sub_asset_class":"MFI",
+        "pe_investor":0,
+        "governance_concerns":0,
+        "asset_class":"MFI",
+        "entity_name":"Unity Small Finance Bank",
+        "avg_tenure":0,
+        "alm_cumulative_mismatch":0,
+        "deflator":0
+    }
+}
